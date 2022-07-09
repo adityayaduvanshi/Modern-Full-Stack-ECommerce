@@ -4,7 +4,7 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 https://modern-full-stack-ec-ommerce.vercel.app/
 
 ## SCREENSHOT
-![App Screenshot](2022-07-10 00 38 22.jpg)
+![App Screenshot](https://github.com/adityayaduvanshi/Modern-Full-Stack-ECommerce/blob/master/2022-07-10%2000%2038%2022.jpg?raw=true)
 
 
 ## Getting Started
